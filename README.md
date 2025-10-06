@@ -17,7 +17,7 @@ The projects demonstrate skills in **heuristic search, evolutionary algorithms, 
 
 ---
 
-### 2. **Iris Dataset Clustering - Medoid Selection**  
+### 2. **Iris Dataset Clustering - Medoid Selection** (`TSP.ipynb`) 
 - **Problem Type**: Clustering Optimization  
 - **Dataset**: Iris flower dataset (150 samples, 4 features, 3 classes)  
 - **Algorithm Implemented**: Genetic Algorithm for Medoid Selection  
